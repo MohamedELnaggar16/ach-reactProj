@@ -1,0 +1,55 @@
+
+ .linkHover {
+    background-image: linear-gradient(to right , #97DECE , #97DECE 50%, black 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.5s ease-in-out;
+    font-size: large;
+   
+  }
+  
+  .linkHover::before {
+  content: "";
+  background: #97DECE;
+  display: block;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  transition: all 0.3s ease-in-out;
+ 
+  }
+  
+  .linkHover:hover {
+    background-position: 0;
+  }
+  
+  .linkHover:hover::before {
+    width: 100%;
+  } 
+  
+  .navBgColor{
+
+    backdrop-filter: blur(2.5px);
+    /* background-color: rgba(255, 255, 255, 0.15); */
+    background-color: white;
+    
+  }
+
+nav a{
+    color: #5C6F47 !important;
+ } 
+.logoSize{
+  width: 200px;
+  height: 50px;
+}
+nav{
+  font-family: 'Dosis', sans-serif; 
+  
+}

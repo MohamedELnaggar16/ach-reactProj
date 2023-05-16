@@ -1,0 +1,53 @@
+
+.middleTric{
+    font-size: 100px;
+    color: rgba(92, 111, 71, 0.1);
+}
+
+.bgCard{
+    
+    box-shadow: 0 1px 1px 0 rgb(92, 111, 71), 0 2px 50px 0 rgb(92, 111, 71); 
+}
+.formBorder{
+  border: #21E6C1 2px solid !important;
+}
+.btnEdit{
+    background-color: #21E6C1 !important;
+    border: none !important;
+    border-radius: 5px !important;
+    color:white !important;
+    padding: 10px;
+}
+.btnEdit:hover{
+    background-color: #5C6F47 !important;
+    transition: all 0.5s;
+}
+.imgHover:hover{
+    transform: scale(1.1);
+    transition: all 0.75s;
+  
+}
+img{
+    transition: all 1s;
+}
+
+h2{
+  transition: all 1s;
+}
+.color{  
+    color: #21E6C1 !important;
+ }
+ .imgAndH2:hover {
+    color: #21E6C1 !important;
+    
+ }
+ .divBG{
+ background-color: rgba(128, 128, 128, 0.1);
+ }
+ .imgSize{
+    width: 275px;
+    height: 175px;
+ }
+.hidden{
+    overflow: hidden;
+}
