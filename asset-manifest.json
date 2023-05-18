@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ach-reactProj/static/css/main.841c470d.css",
-    "main.js": "/ach-reactProj/static/js/main.23eb711b.js",
+    "main.css": "/ach-reactProj/static/css/main.7675cb1b.css",
+    "main.js": "/ach-reactProj/static/js/main.ed0e3413.js",
     "static/js/787.a10a8ea2.chunk.js": "/ach-reactProj/static/js/787.a10a8ea2.chunk.js",
     "static/media/homeVid.mp4": "/ach-reactProj/static/media/homeVid.c90185f3e27848fcba55.mp4",
     "static/media/certf4.png": "/ach-reactProj/static/media/certf4.afaecb5c490de687d52a.png",
@@ -106,12 +106,12 @@
     "static/media/fa-v4compatibility.ttf": "/ach-reactProj/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
     "static/media/fa-v4compatibility.woff2": "/ach-reactProj/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/ach-reactProj/index.html",
-    "main.841c470d.css.map": "/ach-reactProj/static/css/main.841c470d.css.map",
-    "main.23eb711b.js.map": "/ach-reactProj/static/js/main.23eb711b.js.map",
+    "main.7675cb1b.css.map": "/ach-reactProj/static/css/main.7675cb1b.css.map",
+    "main.ed0e3413.js.map": "/ach-reactProj/static/js/main.ed0e3413.js.map",
     "787.a10a8ea2.chunk.js.map": "/ach-reactProj/static/js/787.a10a8ea2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.841c470d.css",
-    "static/js/main.23eb711b.js"
+    "static/css/main.7675cb1b.css",
+    "static/js/main.ed0e3413.js"
   ]
 }
