@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ach-reactProj/static/css/main.bb5f3090.css",
-    "main.js": "/ach-reactProj/static/js/main.68e0c317.js",
+    "main.js": "/ach-reactProj/static/js/main.4646e5ab.js",
     "static/js/787.a10a8ea2.chunk.js": "/ach-reactProj/static/js/787.a10a8ea2.chunk.js",
     "static/media/projects9.png": "/ach-reactProj/static/media/projects9.dbe420ee77b4a549d7ab.png",
     "static/media/homeVid.mp4": "/ach-reactProj/static/media/homeVid.c90185f3e27848fcba55.mp4",
@@ -55,6 +55,7 @@
     "static/media/sheraton6.png": "/ach-reactProj/static/media/sheraton6.1c1c6af41602f6310b31.png",
     "static/media/projects6.jpg": "/ach-reactProj/static/media/projects6.d67eae5c021501f73dc7.jpg",
     "static/media/sheraton7.png": "/ach-reactProj/static/media/sheraton7.83fada3ba911522f0e65.png",
+    "static/media/villa2.jpg": "/ach-reactProj/static/media/villa2.f1cfccab9b5b80c96271.jpg",
     "static/media/nilex3.png": "/ach-reactProj/static/media/nilex3.60fb97c6519ee370ed79.png",
     "static/media/sheraton5.png": "/ach-reactProj/static/media/sheraton5.b5c3ab49938c31ccc26f.png",
     "static/media/hospital4.jpg": "/ach-reactProj/static/media/hospital4.b4f852b22d35ea991d2e.jpg",
@@ -85,7 +86,6 @@
     "static/media/nasercity1.jpg": "/ach-reactProj/static/media/nasercity1.cb3e505926f93b9731b1.jpg",
     "static/media/projects3.png": "/ach-reactProj/static/media/projects3.06498d4254246050e8aa.png",
     "static/media/najar6.png": "/ach-reactProj/static/media/najar6.ee5202cabfeff4210c9f.png",
-    "static/media/em2.jpg": "/ach-reactProj/static/media/em2.ce49c5320b4a6b75c13d.jpg",
     "static/media/amricana4.jpg": "/ach-reactProj/static/media/amricana4.3fec103a0369c07626ae.jpg",
     "static/media/nerhado5.jpg": "/ach-reactProj/static/media/nerhado5.35edf0fc07bc146163bc.jpg",
     "static/media/golden3.jpg": "/ach-reactProj/static/media/golden3.c811dcea69906c9cbc47.jpg",
@@ -252,11 +252,11 @@
     "static/media/fa-v4compatibility.woff2": "/ach-reactProj/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/ach-reactProj/index.html",
     "main.bb5f3090.css.map": "/ach-reactProj/static/css/main.bb5f3090.css.map",
-    "main.68e0c317.js.map": "/ach-reactProj/static/js/main.68e0c317.js.map",
+    "main.4646e5ab.js.map": "/ach-reactProj/static/js/main.4646e5ab.js.map",
     "787.a10a8ea2.chunk.js.map": "/ach-reactProj/static/js/787.a10a8ea2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb5f3090.css",
-    "static/js/main.68e0c317.js"
+    "static/js/main.4646e5ab.js"
   ]
 }
