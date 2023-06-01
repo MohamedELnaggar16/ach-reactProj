@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ach-reactProj/static/css/main.bb5f3090.css",
-    "main.js": "/ach-reactProj/static/js/main.dd33c660.js",
+    "main.js": "/ach-reactProj/static/js/main.96ed70b5.js",
     "static/js/787.a10a8ea2.chunk.js": "/ach-reactProj/static/js/787.a10a8ea2.chunk.js",
     "static/media/projects9.png": "/ach-reactProj/static/media/projects9.dbe420ee77b4a549d7ab.png",
     "static/media/homeVid.mp4": "/ach-reactProj/static/media/homeVid.c90185f3e27848fcba55.mp4",
@@ -252,11 +252,11 @@
     "static/media/fa-v4compatibility.woff2": "/ach-reactProj/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/ach-reactProj/index.html",
     "main.bb5f3090.css.map": "/ach-reactProj/static/css/main.bb5f3090.css.map",
-    "main.dd33c660.js.map": "/ach-reactProj/static/js/main.dd33c660.js.map",
+    "main.96ed70b5.js.map": "/ach-reactProj/static/js/main.96ed70b5.js.map",
     "787.a10a8ea2.chunk.js.map": "/ach-reactProj/static/js/787.a10a8ea2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb5f3090.css",
-    "static/js/main.dd33c660.js"
+    "static/js/main.96ed70b5.js"
   ]
 }
